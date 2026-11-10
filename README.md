@@ -92,5 +92,5 @@ Guest checks out
 <img width="764" height="375" alt="image" src="https://github.com/user-attachments/assets/b9856c00-b767-4726-99f8-4a338c16b3bd" />
 
 ## Step 6: State Transition Test Cases
-<img width="883" height="312" alt="image" src="https://github.com/user-attachments/assets/9fcaca3a-ecb3-41f3-b5c0-107d9997c1b3" />
+<img width="884" height="306" alt="image" src="https://github.com/user-attachments/assets/872170eb-68e3-4990-824c-144122280410" />
 

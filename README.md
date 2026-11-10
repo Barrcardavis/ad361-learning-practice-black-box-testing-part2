@@ -1,4 +1,4 @@
-# ad361-learning-practice-black-box-testing-part2
+# AD361-learning-practice-black-box-testing-part2
 
 ## Step 1: Identify Conditions and Actions
 ### Conditions
